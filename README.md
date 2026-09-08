@@ -40,7 +40,8 @@ The workbook follows a complete, professional analytics pipeline, not just a sin
 📦 SuperMarket-Sales-Dashboard
  ┣ 📊 Main_workbook.xlsx        # The full Excel file (data + model + dashboard)
  ┣ 🖼️ dashboard_preview.png     # Screenshot of the final dashboard
- ┗ 📄 README.md                 # You are here
+ ┣ 📄 README.md                 # You are here
+ ┗ 📄 SuperMarket Analysis.csv  # The row data file before editing
 ```
 
 Inside the workbook, you'll find 4 sheets:
