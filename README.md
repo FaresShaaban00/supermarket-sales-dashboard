@@ -158,9 +158,8 @@ The final dashboard is fully interactive:
 
 This is project #2 in my data analytics portfolio, built as part of my journey into data analysis using Excel's full BI toolkit. I'm actively building a portfolio of real, hands-on projects — feel free to connect or reach out with feedback!
 
-📧 *[Your email here]*
-🔗 *[Your LinkedIn here]*
-💼 *[Your Upwork/Freelance profile here]*
+🔗 *www.linkedin.com/in/fares-shaaban-279134434*
+💼 *https://www.fiverr.com/users/fares_shaaban*
 
 ---
 
