@@ -104,11 +104,10 @@ This structure enables accurate **time intelligence** (like month-over-month gro
 3. 📈 What is the month-over-month sales growth trend?
 4. 👥 Do members spend more than normal customers?
 5. ⚖️ Is there a spending difference between male and female customers?
-6. ⭐ What is the average customer rating by branch?
+6. 🧾 What is the average invoice value per branch?
 7. 💳 Which payment method is used most frequently?
 8. 🕐 What time of day sees peak sales activity?
-9. 🧾 What is the average invoice value per branch?
-10. 🏆 Which branches offer the best overall investment potential?
+9. 🏆 Which branches offer the best overall investment potential?
 
 ---
 
@@ -125,9 +124,9 @@ This structure enables accurate **time intelligence** (like month-over-month gro
 
 ## 🖥️ The Dashboard
 
-The final dashboard is fully interactive:
+The final dashboard:
 
-- 🎛️ **Slicers** to filter by Branch, Product Line, Customer Type, Payment Method, and Date
+- 🎛️ **Slicers** to filter by Branch
 - 📌 **KPI card** showing Average Invoice Value, filterable by branch
 - 📊 A mix of column, line, and pie charts — each chosen deliberately based on what the data needed to show (not just picked at random)
 
